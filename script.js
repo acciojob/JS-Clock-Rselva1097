@@ -1,6 +1,6 @@
 // Get the elements for the clock hands
 const hourHand = document.getElementById('hour-hand');
-const minuteHand = document.getElementById('minute-hand');
+const minuteHand = document.getElementById('min-hand');
 const secondHand = document.getElementById('second-hand');
 
 function updateClock() {
